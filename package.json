@@ -1,0 +1,18 @@
+{
+  "name": "gmail-clone-mern-stack-main",
+  "version": "1.0.0",
+  "description": "<h3> Gmail clone using MERN stack </h3>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3",
+    "nodemon": "^3.0.2"
+  }
+}
